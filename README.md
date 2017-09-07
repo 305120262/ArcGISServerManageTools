@@ -2,4 +2,7 @@
 Helpful tools to manage ArcGIS Server
 
 ## ServiceDatasourceAdmin.py
-Use to list the current datasources used by GIS services on the ArcGIS Server site.
+The Script can be use to list the current datasources used by GIS services on the ArcGIS Server site.
+
+## GetServerLog
+The Script can be use to grab ArcGIS Server logs.
